@@ -1,5 +1,3 @@
-<img width="553" height="109" alt="Screenshot 2026-04-16 102458" src="https://github.com/user-attachments/assets/3b01e944-1854-4ca3-b5d0-1aa2bb745c78" /># Multi-Container Runtime — OS-Jackfruit
-
 ## Team Information
 
 - **Name:** Alifiya Sadikot
