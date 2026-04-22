@@ -106,10 +106,10 @@ dmesg showing HARD LIMIT event and container killed; ps shows exited state.
 ### Figure 7: Scheduling Experiment
 Two cpu_hog containers running with nice=0 and nice=19 showing scheduler behavior.
 ![Figure 7](images/fig7.png)
-
+![Figure 8](images/fig8.png)
 ### Figure 8: Clean Teardown
 No zombie processes after supervisor shutdown; module unloaded cleanly.
-![Figure 8](images/fig8.png)
+![Figure 8](images/clean_exit.png)
 
 ---
 
